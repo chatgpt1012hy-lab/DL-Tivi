@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
+#EXTM3U x-url-tvg="https://lichphatsong.io.vn/epg.xml"
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://vmttv.dpdns.org/VTVGo/?vtv1-hd
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
