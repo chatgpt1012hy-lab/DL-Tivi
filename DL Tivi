@@ -23,7 +23,7 @@ https://vmttv.dpdns.org/VTVGo/?vtv9-hd
 https://vmttv.dpdns.org/VTVGo/?vtv10-hd
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3
@@ -517,6 +517,8 @@ https://audio-lss.vov.vn/live/vov4.m3u8
 https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYj_r_b2QTUWOgd1AY_pwxAr_xPwpaX3iybKCXc9sAir-ljAd8moTTR9n&s=10", VOV English 24/7
 https://audio-lss.vov.vn/live/vov24_7.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/styles/medium/public/media_thumb/publicmedia_thumbpv-ptgd-pham-manh-hung_-fm-sonata.mp4.png", VOV Sonata FM89
+https://audio-lss.vov.vn/live/sonata.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn3/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png.webp", VOV Giao thông Hồ Chí Minh
